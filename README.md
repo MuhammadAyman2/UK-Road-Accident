@@ -16,8 +16,9 @@ The purpose is to reduce the number of accidents in the future
 
 ### Dataset Used
 
-In this dashboard, data is represents the mumber of casualties that accured in 2021 to 2023, represented in 307974 rows and 23 columns.   
+In this dashboard, data represents the number of casualties from 2021 to 2023, represented in 307974 rows and 23 columns.   
 
 ### Analyses derived from the dataset
 
- - Primary KPI : Total casualties thaken place after the accident
+ - Primary KPI: Total casualties taken place after the accident
+<img src="https://drive.google.com/file/d/1M5MhQymmuw7UKCI3Dk-LTWKQUr8m5wo2/view?usp=sharing" width="150">
