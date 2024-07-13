@@ -53,11 +53,6 @@ In this dashboard, data represents the number of casualties from 2021 to 2023, e
 
 ![Filters](https://github.com/user-attachments/assets/2c338fb1-924b-4f34-8307-c13ab9a7eb86)
 
-
-#### Tools Used
-
-
-
 #### Overview
 
 https://github.com/user-attachments/assets/02794bc6-6b2f-4848-a85e-00999e4e8f0f
