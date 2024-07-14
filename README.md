@@ -31,7 +31,7 @@ In this dashboard, data represents the number of casualties from 2021 to 2023, e
 
 #### Monthly trend showing the comparison of casualties for the years 2021 and 2022.
 
-![Monthly Trend](https://github.com/user-attachments/assets/8ad63e54-e814-4598-945f-a702a8521ec1)
+![Monthly Trend](https://github.com/user-attachments/assets/0813c3e1-ee12-4fcc-9cc2-8af70109344b)
 
 #### Maximum casualties by Road Type
 
