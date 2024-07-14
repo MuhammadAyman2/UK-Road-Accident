@@ -23,7 +23,7 @@ In this dashboard, data represents the number of casualties from 2021 to 2023, e
 #### Total casualties took place after the accident & percentage of total concerning accident severity and Maximum casualties by type of vehicle.
 
 ![Total Casualties](https://github.com/user-attachments/assets/dc48e926-6011-4a11-90ef-bbbcfb1762a7)
-![primary KPI](https://github.com/user-attachments/assets/f5308c6a-b971-4b4e-accd-83a20bc77583)
+![primary KPI](https://github.com/user-attachments/assets/5063f2fd-0309-42ac-b0d7-8b8f0c822fec)
 
 #### Total Casualties concerning vehicle type
 
